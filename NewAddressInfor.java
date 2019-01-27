@@ -15,10 +15,10 @@ public class NewAddressInfor {
 		driver.findElement(By.id("nav-link-accountList")).click();
 		
 		// Email input
-		driver.findElement(By.id("ap_email")).sendKeys("chad.gayken@cgcontact.com");
+		driver.findElement(By.id("ap_email")).sendKeys("");
 		
 		// Password Input
-		driver.findElement(By.id("ap_password")).sendKeys("&_1gs44W!2");
+		driver.findElement(By.id("ap_password")).sendKeys("");
 		
 
 		// click create your amazon account button
